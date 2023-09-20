@@ -1,13 +1,11 @@
 # Tree-Based Algorithms for Weakly Supervised Anomaly Detection
 
-Weakly supervised methods are producing promising results for model agnostic anomaly detection for LHC data. Current benchmarks largely use small, tabular feature sets as deep neural networks are sensitive to noise features in this extreme weakly supervised regime. As tree-based models are the state of the art for tabular data in machine learning, we propose their use for weakly supervised anomaly detection. 
-
-## Citation
+This repository contains the code for the following paper:
 
 *"Back to the Roots: Tree-Based Algorithms for Weakly Supervised Anomaly Detection"*,  
 By Thorben Finke, Marie Hein, Gregor Kasieczka, Michael Krämer, Alexander Mück, Parada Prangchaikul, Tobias Quadfasel, David Shih, and Manuel Sommerhalder. <br>
 [Add_arxiv_number_later]( 	
-https://doi.org/10.1103/PhysRevD.106.055006). 
+addlinklater.de). 
 
 
 ## Reproduction of paper results
