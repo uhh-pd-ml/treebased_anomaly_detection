@@ -1,0 +1,6 @@
+[submodule "treebased_ad"]
+	path = treebased_ad
+	url = git@github.com:uhh-pd-ml/treebased_ad.git
+[submodule "BackToTheRoots"]
+	path = BackToTheRoots
+	url = git@github.com:mariehein/BackToTheRoots.git
