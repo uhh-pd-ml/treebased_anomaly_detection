@@ -18,4 +18,4 @@ The code for the results of this paper can be found in the two submodules of thi
 - *treebased_ad* contains the code for appendices A ("Comparisons of different BDT architectures") and B ("Uninformative features, rotational
 invariance, and tabular data")
 
-More detailed instructions on how to reproduce the results is contained within the respective submodules. 
+More detailed instructions on how to reproduce the results can be found in the README of the respective submodule. 
