@@ -19,4 +19,4 @@ More detailed instructions on how to reproduce the results can be found in the R
 
 ## Dataset
 
-In the "dataset" folder, you can also find the dataset used in this paper. It is a version of the LHC Olympics RnD dataset containing high-level features of two jets similar to the high-level feature sets included in https://zenodo.org/record/6466204. However, the subjettiness features used there are expanded to include $\tau_N^\beta$ with $1 \le N \le 9$ as well as $\beta \in \{0.5, 1, 2\}.  
+In the "dataset" folder, you can also find the dataset used in this paper. It is a version of the LHC Olympics RnD dataset containing high-level features of two jets similar to the high-level feature sets included in https://zenodo.org/record/6466204. However, the subjettiness features used there are expanded to include $\tau_N^\beta$ with $1 \le N \le 9$ as well as $\beta \in \{0.5, 1, 2\}$.  
