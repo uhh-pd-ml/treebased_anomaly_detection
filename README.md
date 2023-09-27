@@ -4,8 +4,7 @@ This repository contains the code for the following paper:
 
 *"Back to the Roots: Tree-Based Algorithms for Weakly Supervised Anomaly Detection"*,  
 By Thorben Finke, Marie Hein, Gregor Kasieczka, Michael Krämer, Alexander Mück, Parada Prangchaikul, Tobias Quadfasel, David Shih, and Manuel Sommerhalder. <br>
-[Add_arxiv_number_later]( 	
-addlinklater.de). 
+[arXiv:2309.13111](https://arxiv.org/abs/2309.13111). 
 
 ## Reproduction of paper results
 
